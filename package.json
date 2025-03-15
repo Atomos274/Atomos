@@ -1,5 +1,5 @@
 {
-  "name": "mon-bot-discord",
+  "name": "Fox-BOT",
   "version": "1.0.0",
   "description": "Un bot Discord avec des commandes slash et des fonctionnalités avancées.",
   "main": "index.js",
