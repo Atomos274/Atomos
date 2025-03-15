@@ -1,0 +1,11 @@
+# Ignorer les fichiers de configuration sensibles
+.env
+config.json
+index.js
+
+# Ignorer les dossiers de dépendances
+node_modules/
+__pycache__/
+
+# Ignorer les fichiers de logs
+*.log
